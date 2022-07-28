@@ -1,6 +1,6 @@
 {
-  "homepage":"http://jahal1292.github.io/react-expense-tracker",
-  "name": "react-expense-tracker",
+  "homepage":"http://jahal1292.github.io/my-react-app",
+  "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
